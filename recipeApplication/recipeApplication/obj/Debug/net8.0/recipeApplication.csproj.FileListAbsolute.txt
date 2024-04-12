@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\bin\Debug\net8.0\recipeApplication.exe
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\bin\Debug\net8.0\recipeApplication.deps.json
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\bin\Debug\net8.0\recipeApplication.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\bin\Debug\net8.0\recipeApplication.dll
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\bin\Debug\net8.0\recipeApplication.pdb
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.dll
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\refint\recipeApplication.dll
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.pdb
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\recipeApplication.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\recipeApplication\recipeApplication\obj\Debug\net8.0\ref\recipeApplication.dll
